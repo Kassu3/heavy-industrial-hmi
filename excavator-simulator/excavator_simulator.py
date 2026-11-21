@@ -1,6 +1,3 @@
-
-#excavator_simulator.py
-
 import socket
 import time
 import random
