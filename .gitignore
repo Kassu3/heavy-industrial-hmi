@@ -1,0 +1,5 @@
+.qtcreator/
+build/
+*.user
+__pycache__/
+importedcontent/
